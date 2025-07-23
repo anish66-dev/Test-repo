@@ -1,2 +1,2 @@
 # Test-repo
-Learning
+Learning Github and Git
